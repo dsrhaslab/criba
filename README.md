@@ -44,7 +44,7 @@ To import CRIBA's dashboard:
 
 The folder [correlation_algorithms](correlation_algorithms) contains the 6 correlation algorithms provided by CRIBA.
 
-The script [run_ca_darkside](run_ca_darkside) shows how to run each of these scripts for the Darkside family.
+The script [run_ca_darkside](run_ca_darkside.sh) shows how to run each of these scripts for the Darkside family.
 
 [Traces](traces) folder contains the tracers, for each family, obtained with CRIBA's SysTracer and MetricMon components.
 
