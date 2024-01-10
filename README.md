@@ -50,7 +50,9 @@ The script [run_ca_darkside](run_ca_darkside.sh) shows how to run each of these 
 
 ---
 ## Publications
-**CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior**. Tânia Esteves, Bruno Pereira, Rui Pedro Oliveria, João Marco and João Paulo. _42th International Symposium on Reliable Distributed Systems (SRDS)_, 2023.
+- **CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior**. <br>
+Tânia Esteves, Bruno Pereira, Rui Pedro Oliveria, João Marco and João Paulo. <br>
+_In 42nd International Symposium on Reliable Distributed Systems (SRDS)_, 2023.
 
 ---
 ## Contact
